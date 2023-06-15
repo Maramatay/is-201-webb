@@ -1,0 +1,22 @@
+body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(156, 211, 235);
+}
+
+.fontcolor{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: coral;
+}
+
+.div2{
+    border: 5px solid darkblue;
+    padding: 5px;
+    font-size: xx-small;
+    color:darkblue;
+}
+.bold{
+    font-weight: bold;
+}
+.div3{
+    font-style: oblique;
+}
